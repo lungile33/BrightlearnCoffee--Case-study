@@ -29,7 +29,8 @@ The aim of this project is to conduct a comprehensive exploratory and descriptiv
 ### Recommendations
 
 
-#### How to view
+#### How to view information on this project
+- Project description: This document provides us an outline and guidance on what the problem is and how to approach the project
 
 
 ### Get in touch with me
