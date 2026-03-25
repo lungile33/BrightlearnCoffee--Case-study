@@ -26,5 +26,15 @@ The aim of this project is to conduct a comprehensive exploratory and descriptiv
 -Utilized Databricks to perform data extraction, transformation, and loading (ETL), ensuring data quality, consistency, and readiness for analysis.
 -Data Analysis and Interpretation (added for completeness)
 -Performed exploratory data analysis (EDA) to identify trends, patterns, and anomalies in sales data over the six-month period.
+### Recommendations
+
+
+#### How to view
+
+
+### Get in touch with me
+I accept constructive feedback
+Email: lungilesimandla@gmail.com 
+Linkedin 
 Insight Generation and Reporting (added for completeness)
 Translated analytical findings into business insights and recommendations to address the identified causes of revenue decline.
