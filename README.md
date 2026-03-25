@@ -6,7 +6,7 @@ The coffee shop has experienced a measurable decline in sales performance over t
 ### Overview
 This project provides a comprehensive analysis of Bright Coffee Shop's Sales performance for the period January to June 2023.
 
-##Aim
+## Aim
 
 The aim of this project is to conduct a comprehensive exploratory and descriptive data analysis to uncover actionable insights into the factors influencing the decrease in revenue. The findings will support data-driven decision-making for the CEO and inform strategic interventions to improve business performance.
 
