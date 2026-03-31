@@ -28,14 +28,10 @@ The aim of this project is to conduct a comprehensive exploratory and descriptiv
 -Performed exploratory data analysis (EDA) to identify trends, patterns, and anomalies in sales data over the six-month period.
 ### Recommendations
 
-
-#### How to view information on this project
-- Project description: This document provides us an outline and guidance on what the problem is and how to approach the project
+To enhance operational efficiency, Bright coffee shop should focus on implementing a mobile ordering app to reduce in-store congestion and waiting times, creating a smoother customer experience. Additionally, optimizing inventory management by avoiding overstocking low-performing items and investing in targeted sampling can help balance stock levels and improve product performance. Finally, continuous staff training programs centered on upselling techniques and product knowledge can boost average order values by 5-10%, while leveraging customer feedback and sales data allows for refining marketing strategies and addressing operational challenges effectively.
 
 
 ### Get in touch with me
 I accept constructive feedback
 Email: lungilesimandla@gmail.com 
-Linkedin 
-Insight Generation and Reporting (added for completeness)
-Translated analytical findings into business insights and recommendations to address the identified causes of revenue decline.
+
